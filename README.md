@@ -20,4 +20,4 @@ This repository contains my internship tasks and report based on:
 
 ## 📄 View Full Report
 Click below:
-[Download Report](https://github.com/lemina271/cybersecurity-internship-report/blob/main/Internship_Report_Template.pdf)
+[Download Report]([https://github.com/lemina271/cybersecurity-internship-report/blob/main/Internship_Report_Template.pdf](https://github.com/lemina271/cybersecurity-internship-report/blob/main/Internship_Report.pdf))

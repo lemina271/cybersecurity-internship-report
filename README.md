@@ -1,2 +1,23 @@
-# cybersecurity-internship-report
-Cybersecurity Internship Report using Wireshark &amp; OWASP ZAP
+# 🔐 Cybersecurity Internship Report
+
+This repository contains my internship tasks and report based on:
+
+## 📌 Task 1: Network Security
+- Firewall configuration
+- Wireshark traffic analysis
+- Network threat understanding
+
+## 📌 Task 2: Web Application Security
+- OWASP ZAP vulnerability scanning
+- SQL Injection (manual testing)
+- XSS and CSRF analysis
+
+## 🛠 Tools Used
+- Wireshark
+- OWASP ZAP
+- WebGoat
+- Windows Defender Firewall
+
+## 📄 View Full Report
+Click below:
+[Download Report](PASTE YOUR PDF LINK HERE)
